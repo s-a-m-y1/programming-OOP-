@@ -46,11 +46,3 @@ Paradigm: Object-Oriented Programming (OOP)
 
 Compiler: Any standard C++ compiler
 
-📂 Notes
-
-This repository is for learning purposes
-
-Code may be improved or refactored over time
-
-Feedback and suggestions are welcome
-أو أرسم لك شكل الكائن في الذاكرة وقت الإنشاء؟ 🧠🖼}
